@@ -1,5 +1,5 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-My stupid boss.
+学习这个stm32 感觉走了很多弯路，之前花了一周一直在看网上讲stm32的内部系统结构之类的东西，最后也记不住。
+从复制标准库到建立一个工程模板，到最后下载一个程序到stm32，我也是在网上兜兜转转找了好多相关教程，可能别人几分钟就解决的事情
+我要花几个小时才能完成，就是效率特别低，比方说，一开始我程序写完后，编译一直有问题，捣鼓了半天，才发现是没建立一个标准模板库，可是教程一开始也没教我，我也是很纳闷，
+之后又是下载程序，下载出错，经过一番查找，发现是芯片有问题，换了一块芯片，又发现led 不亮，因为芯片型号不一样，总之捣鼓到现在，我的led程序写好了之后，还没真正点亮led,串口通信的
+学习我还没开始，虽然学的比较慢，但是我觉得万事开头难，接下来只要继续保持进步，问题就不大。
